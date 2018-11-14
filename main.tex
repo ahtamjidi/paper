@@ -45,6 +45,7 @@ urlcolor={blue!80!black}
 
 \newcommand{\TODO}[1]{{\color{orange}{#1}}}  % Typo or 
 \newcommand{\DONE}[1]{{\color{blue}{#1}}}  % Typo or 
+\newcommand{\AMIR}[1]{{\color{green}{#1}}}  % Typo or 
 %\newcommand{\bIn}{\boldsymbol{I}_{\boldsymbol{n}}}
 %\newcommand{\bIa}{\boldsymbol{I}_{\boldsymbol{a}}}
 %\newcommand{\bIk}{\boldsymbol{I}_{\boldsymbol{k}}}
@@ -254,6 +255,13 @@ show, the performance in settings where the communication network is unreliable
 is outstanding---so good in fact as to eclipse previously envisioned domains of
 applicability.
 
+\TODO{THIS CAN BE PLACED HERE OR PREFERABLY TO DISCUSSION/CONCLUSION SECTION} \AMIR{For application purposes it is worth clarifying what is the difference between the underlying method of this paper and \cite{battistelli2014parallel} and when one should opt for either of them. In terms of underlying approach, both methods follow the same fusion rules for independent and correlation sources of information. This paper fleshes out the realization of fusion rules for discrete case while \cite{battistelli2014parallel} details the implementation for continuous linear and non-linear systems with uni-modal assumption on posterior probability distribution. Save for obvious reasons, e.g., representation compactness and accuracy, to prefer continuous over discrete alternative, one ought to use the discrete realization specially when either the (near) gaussian or uni-modal assumptions no longer hold. Applications where these assumptions do not hold are abound in the robotics field. Finally we shall point out that the discussion in \cite{battistelli2014parallel} about choice of consensus weights when the number of agents in the network is unknown can be applied in our method as well. 
+
+The astute reader shall find out that the discussion of this paper and our earlier work ~\cite{tamjidi2016unifying} is complementary to ~\cite{battistelli2014parallel, battistelli2016stability}. Now, one can see that hybrid of CL and ICF yields superior performance in networks with perpetual or intermittent connectivity for systems where posterior is discrete or continuous uni-modal and motion/observation models are linear or non-linear. 
+
+From ~\cite{battistelli2014parallel}, we knew that under perpetual connectivity, hybrid method can afford to perform less number of consensus steps and still remain stable. In this paper we analyzed another aspect of the hybrid method. We quantified the relationship between network connectivity and performance gap with respect to ideal (yet impractical) distributed estimator. Consequently, the practitioner who has control over the network topology can now better compare between two competing design scenarios in terms of effort to keep the network connected vs loosing some performance and affording intermittent connectivity.
+}
+ 
 This article is an extended version of the conference paper
 \cite{tamjidi2017efficient}, where method of \cite{tamjidi2016unifying} was
 generalized to finite-state systems with non-Gaussian noise. We define

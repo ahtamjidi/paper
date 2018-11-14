@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.10.15)  13 NOV 2018 18:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2018.10.15)  13 NOV 2018 22:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1161,17 +1161,17 @@ File: pgflibraryplotmarks.code.tex 2010/10/15 v2.10 (rcs-revision 1.12)
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \ais with arg. spec. 'm m m ' on line 88.
+. Defining document command \ais with arg. spec. 'm m m ' on line 89.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \bis with arg. spec. 'm m m ' on line 89.
+. Defining document command \bis with arg. spec. 'm m m ' on line 90.
 .................................................
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \cis with arg. spec. 'm m m ' on line 90.
+. Defining document command \cis with arg. spec. 'm m m ' on line 91.
 .................................................
 
 (/usr/share/texlive/texmf-dist/tex/latex/algorithm2e/algorithm2e.sty
@@ -1491,28 +1491,28 @@ Now handling font encoding PD1 ...
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 113.
-LaTeX Font Info:    ... okay on input line 113.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 114.
+LaTeX Font Info:    ... okay on input line 114.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.5> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 113.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 114.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7.5> not available
-(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 113.
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 114.
 
 -- Lines per column: 58 (exact).
 ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 113.
+LaTeX Info: Redefining \selectfont on input line 114.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -1548,7 +1548,7 @@ e
 ))
 Package marginnote Info: \pdfoutput not 0 and \pdflastxpos available.
 (marginnote)             Extended position detection mode activated.
-Package soulpos Info: Loading soulutf8 on input line 113.
+Package soulpos Info: Loading soulutf8 on input line 114.
 
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/soulutf8.sty
 Package: soulutf8 2007/09/09 v1.0 Permit use of UTF-8 characters in soul (HO)
@@ -1566,7 +1566,7 @@ Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
 \SOUL@ulht=\dimen313
 ))
 \AtBeginShipoutBox=\box71
-Package hyperref Info: Link coloring ON on input line 113.
+Package hyperref Info: Link coloring ON on input line 114.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -1576,9 +1576,9 @@ Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
 \c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 113.
-LaTeX Info: Redefining \pageref on input line 113.
-LaTeX Info: Redefining \nameref on input line 113.
+LaTeX Info: Redefining \ref on input line 114.
+LaTeX Info: Redefining \pageref on input line 114.
+LaTeX Info: Redefining \nameref on input line 114.
 
 (./main.out) (./main.out)
 \@outlinefile=\write5
@@ -1588,7 +1588,7 @@ LaTeX Info: Redefining \nameref on input line 113.
 Package pgfplots notification 'compat/show suggested version=true': document ha
 s been generated with the most recent feature set (\pgfplotsset{compat=1.9}).
 
-LaTeX Info: Redefining \microtypecontext on input line 113.
+LaTeX Info: Redefining \microtypecontext on input line 114.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -1601,13 +1601,13 @@ Package microtype Info: No adjustment of character kerning.
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-ptm.cfg
 File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
 )
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 116.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 117.
 
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
 (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 116.
+LaTeX Font Info:    Try loading font information for U+msa on input line 117.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
@@ -1615,7 +1615,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 116.
+LaTeX Font Info:    Try loading font information for U+msb on input line 117.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
@@ -1623,313 +1623,76 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 116.
-
-
-LaTeX Warning: Citation `durrant2001data' on page 1 undefined on input line 140
-.
-
-
-LaTeX Warning: Citation `campbell2016distributed' on page 1 undefined on input 
-line 140.
-
-
-LaTeX Warning: Citation `boem2015decentralized' on page 1 undefined on input li
-ne 140.
-
-
-LaTeX Warning: Citation `ahmed201522' on page 1 undefined on input line 145.
-
-
-LaTeX Warning: Citation `Zhang_ttradeof1' on page 1 undefined on input line 147
-.
-
-
-LaTeX Warning: Citation `durrant2001data' on page 1 undefined on input line 154
-.
-
-
-LaTeX Warning: Citation `bahr09consistent' on page 1 undefined on input line 16
-1.
-
-
-LaTeX Warning: Citation `simonetto10distributed' on page 1 undefined on input l
-ine 180.
-
-
-LaTeX Warning: Citation `xiao2005scheme' on page 1 undefined on input line 185.
-
-
-
-LaTeX Warning: Citation `simonetto10distributed' on page 1 undefined on input l
-ine 186.
-
-
-LaTeX Warning: Citation `olfati2005distributed' on page 1 undefined on input li
-ne 187.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 1 undefined on input 
-line 188.
-
-
-LaTeX Warning: Citation `rao2003constrained' on page 1 undefined on input line 
-188.
-
-
-LaTeX Warning: Citation `boem2013distributed' on page 1 undefined on input line
- 188.
-
-
-LaTeX Warning: Citation `hu2014state' on page 1 undefined on input line 188.
-
-
-LaTeX Warning: Citation `xiao2005scheme' on page 1 undefined on input line 189.
-
-
-
-LaTeX Warning: Citation `olfati2005distributed' on page 1 undefined on input li
-ne 189.
-
-
-LaTeX Warning: Citation `hlinka2013distributed' on page 1 undefined on input li
-ne 190.
-
-
-LaTeX Warning: Citation `tamjidi2016unifying' on page 1 undefined on input line
- 191.
-
-
-LaTeX Warning: Citation `xiao2005scheme' on page 1 undefined on input line 191.
-
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 1 undefined on input 
-line 192.
-
-
-LaTeX Warning: Citation `tamjidi2016unifying' on page 1 undefined on input line
- 193.
-
-
-LaTeX Warning: Citation `xiao2005scheme' on page 1 undefined on input line 193.
-
-
-
-LaTeX Warning: Citation `tamjidi2016unifying' on page 1 undefined on input line
- 195.
-
-
-LaTeX Warning: Citation `xiao2005scheme' on page 1 undefined on input line 195.
-
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 1 undefined on input 
-line 195.
-
-
-LaTeX Warning: Citation `durrant2001data' on page 1 undefined on input line 197
-.
-
-
-LaTeX Warning: Citation `wang_distr_CI' on page 1 undefined on input line 198.
-
-
-LaTeX Warning: Citation `hu2012diffusion' on page 1 undefined on input line 198
-.
-
-
-LaTeX Warning: Citation `olfati2005distributed' on page 1 undefined on input li
-ne 201.
-
-
-LaTeX Warning: Citation `cattivelli2010diffusion' on page 1 undefined on input 
-line 201.
-
-
-LaTeX Warning: Citation `battistelli2016stability' on page 1 undefined on input
- line 204.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 1 undefined on input 
-line 204.
-
-
-LaTeX Warning: Citation `dist_inf_filter_2009' on page 1 undefined on input lin
-e 205.
-
-
-LaTeX Warning: Citation `niu2017distributed' on page 1 undefined on input line 
-206.
-
-
-LaTeX Warning: Citation `lin_dist_part_filter_2014' on page 1 undefined on inpu
-t line 208.
-
-
-LaTeX Warning: Citation `hlinka2012likelihood' on page 1 undefined on input lin
-e 214.
-
-
-LaTeX Warning: Citation `li2012distributed' on page 1 undefined on input line 2
-14.
-
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+LaTeX Font Info:    Calculating math sizes for size <7.5> on input line 117.
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 \openout4 = `main.upa'.
 
 
 ]
-
-LaTeX Warning: Citation `battistelli2014kullback' on page 2 undefined on input 
-line 224.
-
-
-LaTeX Warning: Citation `wang_distr_CI' on page 2 undefined on input line 224.
-
-
-LaTeX Warning: Citation `hu2012diffusion' on page 2 undefined on input line 224
-.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 2 undefined on input 
-line 229.
-
-
-LaTeX Warning: Citation `battistelli2016stability' on page 2 undefined on input
- line 229.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 2 undefined on input 
-line 238.
-
-
-LaTeX Warning: Citation `battistelli2016stability' on page 2 undefined on input
- line 239.
-
-
-LaTeX Warning: Citation `tamjidi2016unifying' on page 2 undefined on input line
- 243.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 2 undefined on input 
-line 245.
-
-
-LaTeX Warning: Citation `battistelli2016stability' on page 2 undefined on input
- line 245.
-
-
-LaTeX Warning: Citation `battistelli2014parallel' on page 2 undefined on input 
-line 248.
-
-
-LaTeX Warning: Citation `battistelli2016stability' on page 2 undefined on input
- line 248.
-
-
-LaTeX Warning: Citation `tamjidi2017efficient' on page 2 undefined on input lin
-e 258.
-
-
-LaTeX Warning: Citation `tamjidi2016unifying' on page 2 undefined on input line
- 258.
-
-
-LaTeX Warning: Citation `tamjidi2017efficient' on page 2 undefined on input lin
-e 262.
-
-
-<./synopsis_for_journal_inkscape_text_black.pdf, id=79, 1136.52571pt x 668.9226
-7pt>
+<./synopsis_for_journal_inkscape_text_black.pdf, id=167, 1136.52571pt x 668.922
+67pt>
 File: ./synopsis_for_journal_inkscape_text_black.pdf Graphic file (type pdf)
  <use ./synopsis_for_journal_inkscape_text_black.pdf>
 Package pdftex.def Info: ./synopsis_for_journal_inkscape_text_black.pdf used on
- input line 274.
+ input line 282.
 (pdftex.def)             Requested size: 252.0pt x 148.31682pt.
- [2 <./synopsis_for_journal_inkscape_text_black.pdf>] [3] [4]
-
-LaTeX Warning: Citation `bailey2012conservative' on page 5 undefined on input l
-ine 590.
-
-
-LaTeX Warning: Citation `ajgl2015design' on page 5 undefined on input line 631.
-
-
-
-LaTeX Warning: Citation `bailey2012conservative' on page 5 undefined on input l
-ine 639.
-
-[5] [6]
-Underfull \hbox (badness 10000) in paragraph at lines 898--909
+ [2] [3 <./synopsis_for_journal_inkscape_text_black.pdf>] [4] [5] [6]
+Underfull \hbox (badness 10000) in paragraph at lines 906--917
 
  []
 
-
-LaTeX Warning: Citation `seneta2006non' on page 7 undefined on input line 911.
-
-
-LaTeX Warning: Citation `seneta2006non' on page 7 undefined on input line 921.
-
-
-LaTeX Warning: Citation `anderson1997forgetting' on page 7 undefined on input l
-ine 921.
-
-
-LaTeX Warning: Citation `liverani1999probabilistic' on page 7 undefined on inpu
-t line 922.
-
 [7]
-<./CaseA_MarkovChain_SmallChessboard.pdf, id=238, 486.62527pt x 385.91676pt>
+<./CaseA_MarkovChain_SmallChessboard.pdf, id=337, 486.62527pt x 385.91676pt>
 File: ./CaseA_MarkovChain_SmallChessboard.pdf Graphic file (type pdf)
 
 <use ./CaseA_MarkovChain_SmallChessboard.pdf>
 Package pdftex.def Info: ./CaseA_MarkovChain_SmallChessboard.pdf used on input 
-line 1030.
+line 1038.
 (pdftex.def)             Requested size: 252.0pt x 199.85345pt.
 
-<./CaseA_L1_SmallChessboard.pdf, id=241, 620.07893pt x 424.91965pt>
+<./CaseA_L1_SmallChessboard.pdf, id=340, 620.07893pt x 424.91965pt>
 File: ./CaseA_L1_SmallChessboard.pdf Graphic file (type pdf)
 
 <use ./CaseA_L1_SmallChessboard.pdf>
-Package pdftex.def Info: ./CaseA_L1_SmallChessboard.pdf used on input line 1038
+Package pdftex.def Info: ./CaseA_L1_SmallChessboard.pdf used on input line 1046
 .
 (pdftex.def)             Requested size: 516.0pt x 353.6039pt.
- [8 <./CaseA_MarkovChain_SmallChessboard.pdf>]
-Underfull \vbox (badness 2027) has occurred while \output is active []
-
- [9 <./CaseA_L1_SmallChessboard.pdf>]
-<./exp1_Corrected2.pdf, id=4231, 649.69624pt x 646.56755pt>
+ [8] [9 <./CaseA_L1_SmallChessboard.pdf>]
+<./exp1_Corrected2.pdf, id=392, 649.69624pt x 646.56755pt>
 File: ./exp1_Corrected2.pdf Graphic file (type pdf)
 
 <use ./exp1_Corrected2.pdf>
-Package pdftex.def Info: ./exp1_Corrected2.pdf used on input line 1129.
+Package pdftex.def Info: ./exp1_Corrected2.pdf used on input line 1137.
 (pdftex.def)             Requested size: 201.60077pt x 200.63118pt.
 
-<./CaseB_Chessboard_2.pdf, id=4234, 626.41713pt x 497.17108pt>
+<./CaseB_Chessboard_2.pdf, id=395, 626.41713pt x 497.17108pt>
 File: ./CaseB_Chessboard_2.pdf Graphic file (type pdf)
 
 <use ./CaseB_Chessboard_2.pdf>
-Package pdftex.def Info: ./CaseB_Chessboard_2.pdf used on input line 1149.
+Package pdftex.def Info: ./CaseB_Chessboard_2.pdf used on input line 1157.
 (pdftex.def)             Requested size: 490.19843pt x 389.05878pt.
 
-<./CaseC_FigPerf_Chessboard_RndNet.pdf, id=4238, 517.15498pt x 513.63025pt>
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+
+<./CaseC_FigPerf_Chessboard_RndNet.pdf, id=399, 517.15498pt x 513.63025pt>
 File: ./CaseC_FigPerf_Chessboard_RndNet.pdf Graphic file (type pdf)
 
 <use ./CaseC_FigPerf_Chessboard_RndNet.pdf>
 Package pdftex.def Info: ./CaseC_FigPerf_Chessboard_RndNet.pdf used on input li
-ne 1183.
+ne 1191.
 (pdftex.def)             Requested size: 258.0pt x 256.2502pt.
 
-<./CaseC_FigPerf_20N_3S_RndNet.pdf, id=4239, 486.62527pt x 481.23912pt>
+<./CaseC_FigPerf_20N_3S_RndNet.pdf, id=400, 486.62527pt x 481.23912pt>
 File: ./CaseC_FigPerf_20N_3S_RndNet.pdf Graphic file (type pdf)
 
 <use ./CaseC_FigPerf_20N_3S_RndNet.pdf>
 Package pdftex.def Info: ./CaseC_FigPerf_20N_3S_RndNet.pdf used on input line 1
-188.
+196.
 (pdftex.def)             Requested size: 258.0pt x 255.15833pt.
 
-Overfull \hbox (4.59991pt too wide) in paragraph at lines 1182--1194
+Overfull \hbox (4.59991pt too wide) in paragraph at lines 1190--1202
 []$[]$ |  $[]$ 
  []
 
@@ -1937,33 +1700,35 @@ Overfull \hbox (4.59991pt too wide) in paragraph at lines 1182--1194
 Package balance Warning: You have called \balance in second column
 (balance)                Columns might not be balanced.
 
-[10 <./exp1_Corrected2.pdf>] (./main.bbl)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1296.
- [11 <./CaseB_Chessboard_2.pdf>]
+[10 <./CaseA_MarkovChain_SmallChessboard.pdf> <./exp1_Corrected2.pdf>]
+Underfull \vbox (badness 2269) has occurred while \output is active []
+
+ [11 <./CaseB_Chessboard_2.pdf>] (./main.bbl
+Overfull \vbox (1.60083pt too high) has occurred while \output is active []
+
+
 [12 <./CaseC_FigPerf_Chessboard_RndNet.pdf> <./CaseC_FigPerf_20N_3S_RndNet.pdf>
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1296.
+])
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1304.
+ [13]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1304.
  (./main.aux * soulpos - computing points - it may take a few seconds *
 \openout4 = `main.upb'.
 
 
 (./main.upa))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1296.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1296.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1304.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1304.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: FABDE3CF75EC6EF2B9C0220C1CD3EA79;982.
-
-
-LaTeX Warning: There were undefined references.
-
+(rerunfilecheck)             Checksum: C3EF4A98BB8091CA694619B9B6681F30;1029.
  ) 
 Here is how much of TeX's memory you used:
- 36991 strings out of 495004
- 772192 string characters out of 6180661
- 1041718 words of memory out of 5000000
- 39180 multiletter control sequences out of 15000+600000
- 66334 words of font info for 253 fonts, out of 8000000 for 9000
+ 37122 strings out of 495004
+ 773912 string characters out of 6180661
+ 1047564 words of memory out of 5000000
+ 39190 multiletter control sequences out of 15000+600000
+ 71785 words of font info for 312 fonts, out of 8000000 for 9000
  16 hyphenation exceptions out of 8191
  63i,15n,81p,10416b,609s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
@@ -1986,10 +1751,10 @@ s/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fonts
 type1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (12 pages, 674860 bytes).
+Output written on main.pdf (13 pages, 689571 bytes).
 PDF statistics:
- 4457 PDF objects out of 5155 (max. 8388607)
- 4323 compressed objects within 44 object streams
- 108 named destinations out of 1000 (max. 500000)
- 32424 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 4572 PDF objects out of 5155 (max. 8388607)
+ 4436 compressed objects within 45 object streams
+ 141 named destinations out of 1000 (max. 500000)
+ 36528 words of extra memory for PDF output out of 42996 (max. 10000000)
 
